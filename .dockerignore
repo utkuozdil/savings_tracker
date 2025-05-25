@@ -10,3 +10,6 @@ __pycache__/
 excel_script.py
 Takı Liste.xlsx
 savings.db
+.pytest_cache/
+tests/__pycache__/
+app/__pycache__/
