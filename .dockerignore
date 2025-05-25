@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.db
+.vscode/
+.idea/
+*.sqlite3
+excel_script.py
+Takı Liste.xlsx
+savings.db
